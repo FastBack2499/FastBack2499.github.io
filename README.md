@@ -7,7 +7,6 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 
 - Technologies Used: 
   - React: For building interactive user interfaces.
-  - Next.js: For server-side rendering and SEO-friendly routing.
   - Tailwind CSS: For rapid styling and responsive design.
   
 - Projects Section: 

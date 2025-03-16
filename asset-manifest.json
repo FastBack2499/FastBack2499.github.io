@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1f9c0e03.css",
+    "main.js": "/static/js/main.d9928a91.js",
+    "static/media/heroImage.png": "/static/media/heroImage.c2ec9cc4cd59f75e452c.png",
+    "static/media/discordBot.png": "/static/media/discordBot.c70e48d8ffec184ea9c2.png",
+    "static/media/sampleTailwind.png": "/static/media/sampleTailwind.15745d12a5b137d0a400.png",
+    "static/media/redux.png": "/static/media/redux.014e473756aebf217a6d.png",
+    "static/media/python.png": "/static/media/python.46d85420f48f94d14019.png",
+    "static/media/messengerClone.png": "/static/media/messengerClone.48f98fa26aa94db554d2.png",
+    "static/media/nextjs.png": "/static/media/nextjs.88a6211e27d38cb79019.png",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/index.html",
+    "main.1f9c0e03.css.map": "/static/css/main.1f9c0e03.css.map",
+    "main.d9928a91.js.map": "/static/js/main.d9928a91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f9c0e03.css",
+    "static/js/main.d9928a91.js"
+  ]
+}
